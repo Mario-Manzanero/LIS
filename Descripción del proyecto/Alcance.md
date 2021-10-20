@@ -8,17 +8,6 @@ La mayoría de las páginas oficiales de las instituciones busca brindar informa
 Estas preguntas fueron realizadas a alumnos de primer ingreso, con el objetivo de saber algunas de sus necesidades. A base de esto y con lo anterior dicho, el cliente (en este caso el director de la Facultad de Matemáticas) nos comparte algunas de las necesidades y requisitos que el sitio web debe contener.
 
 ### Funciones
-> - Compartir documentos, textos, imágenes, videos y otros materiales de apoyo en la página web. Facilitará al usuario poder compartir sus pensamientos o gustos personales. 
-> - Creación de perfiles.  Ayudará a la comunidad para poder identificarse en el sitio y además tendrá derecho a participar en las interacciones de la comunidad 
-> - Acceder como invitado. Es un modo para aquellos que únicamente quieren acceder a la información de la página sin la necesidad de crear una cuenta en la página web 
-> - Croquis de la Facultad de Matemáticas. Facilitará al usuario encontrar lo que necesita. 
-> - Mensajería. Apartado donde el usuario podrá mandar mensajes con los demás usuarios de la aplicación. 
-> - Breve inducción hacia la carrera Ingeniería de Software. Información que se le ofrecerá a los usuarios acerca de todo lo que es la ingeniería de software. 
-> - Realizar publicaciones. Apartado donde los usuarios podrán publicar sus ideas o pensamientos con los demás usuarios. 
-> - Comentar y reaccionar a publicaciones. Función que tendrá la aplicación para poder interactuar con los demás usuarios de manera de emojis o mensajes escritos. 
-> - Interactuar con otros perfiles. Función que servirá a los usuarios para poder comunicarse con los demás perfiles y además poder ver los perfiles de los usuarios. 
-> - Sección de dudas. Apartado donde los usuarios podrán dejar sus dudas acerca de la aplicación. 
-> - Subir material exclusivo. Apartado de la aplicación donde la UADY se encargará de subir documentos o avisos exclusivos para los usuarios. 
 
 Nota: *Todas las publicaciones, documentos, videos, imágenes, estados gira en respecto a la carrera Lic. En Ingeniería de Software*
 
