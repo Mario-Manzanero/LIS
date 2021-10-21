@@ -30,4 +30,3 @@ Nuestro principal objetivo para este proyecto es hacer la obtención de informac
 > - [17 de octubre del 2021](https://github.com/AndyTue/LIS/blob/51b5b0a694bd35604d68c4ee0fc1043feb2a05e5/Bit%C3%A1cora/Segunda_reuni%C3%B3n.md)
 > - [18 de octubre del 2021](https://github.com/AndyTue/LIS/blob/51b5b0a694bd35604d68c4ee0fc1043feb2a05e5/Bit%C3%A1cora/Tercera_reuni%C3%B3n.md)
 > - [19 de octubre del 2021](https://github.com/AndyTue/LIS/blob/51b5b0a694bd35604d68c4ee0fc1043feb2a05e5/Bit%C3%A1cora/Cuarta_reuni%C3%B3n.md)
-> - [20 de octubre del 2021]()
