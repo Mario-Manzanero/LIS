@@ -3,7 +3,7 @@ Desinformación y mala comunicación en los estudiantes de la carrera Lic. En In
 
 Antecedentes:
 -----
-
+El cambio de la preparatoria/bachillerato a universidad es un gran giro, en el cual muchos estudiantes no están preparados. Grandes factores como la desinformación, falta de interés, etc., hacen que esta transición sea estresante para los alumnos. A continuación, se presentan dos gráficas de las cuales se hablarán a continuación:
 ---
 Gráfica 1: ![](https://github.com/AndyTue/LIS/blob/8c2872777dd2d6dbee83af36cf17fcfb29719c6d/Gr%C3%A1ficas/Imagen%201.png)
 Gráfica 2: ![](https://github.com/AndyTue/LIS/blob/df8eb35d5f97ea9f3bd6e5f3f1f38306d77d1db3/Gr%C3%A1ficas/Imagen%202.png)
